@@ -1,0 +1,310 @@
+CLI: Server ip set to 127.0.0.1
+CLI: Upload port set to 1234
+CLI: Crypto parameters set to LWE.*
+CLI: Security set to 80
+CLI: Minimum recursion level set to 1
+CLI: Maximum recursion level set to 4
+CLI: Max aggregation set to 0
+CLI: Fitness method set to 1
+PIRClient: Catalog bytesize is 247
+PIRClient: Catalog received with 17 files
+PIRClient: Client-driven mode used
+PIRClient: Starting optimization ...
+Optimizer: Number of files is 17
+Optimizer: File bytesize is 1048576
+Optimizer: Upload speed test gives 2.61642e+10 bits/s
+Optimizer: Download speed test gives 4.83433e+09 bits/s
+Optimizer: Using fitness method 1 (use --help for code translation)
+Optimizer: Crypto parameters manually forced to LWE.*
+Optimizer: Requesting absorption and precomputation costs file for LWE
+LWE:192:8192:240 0.00035153 0.057651
+LWE:209:4096:120 9.5676e-05 0.00035055
+LWE:248:2048:60 2.1284e-05 0.00014062
+LWE:2551:8192:60 0.00012453 0.0004698
+LWE:335:8192:180 0.00025362 0.0043622
+LWE:716:8192:120 0.000168 0.00083629
+LWE:838:4096:60 7.3489e-05 0.00032703
+LWE:90:4096:180 0.00011956 0.0020065
+
+Optimizer: Comparing (LWE:209:4096:120:46, 0.106511) with (No crypto params, inf)
+Optimizer: Winner is (LWE:209:4096:120:46, 0.106511)
+PIRClient: Optimization returned alpha=1 d=1 crypto_params=LWE:209:4096:120:46
+PIRClient: Send crypto_params 
+LWE:209:4096:120:46
+
+PIRClient: Send PIR parameters alpha=1 d=1
+
+##############################################
+#                                            #
+# Connection established                     #
+#                                            #
+##############################################
+#                                            #
+# File List :                                #
+# Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°                                #
+#                                            #
+# 1) test1                                   #
+# 2) test10                                  #
+# 3) test100                                 #
+# 4) test11                                  #
+# 5) test12                                  #
+# 6) test13                                  #
+# 7) test14                                  #
+# 8) test15                                  #
+# 9) test16                                  #
+# 10) test2                                   #
+# 11) test3                                   #
+# 12) test4                                   #
+# 13) test5                                   #
+# 14) test6                                   #
+# 15) test7                                   #
+# 16) test8                                   #
+# 17) test9                                   #
+#                                            #
+##############################################
+#                                            #
+# Which file do you want ?                   #
+Client: Retrieved file is nbr , "test100"
+PIRClient: Send query ciphertext:
+PIRQueryGenerator: Plaintext: 
+00100000000000000
+PIRQueryGenerator_internal: Generated a 17 element query
+PIRQueryGenerator_internal: All the queries have been generated, total time is 0.00624399 seconds
+4Íáe‰‘íÌ
+/?
+µjêŞÕ«?=?á­
+‰œ‰U2?ì–ª‘S?–×ßšÓsL ?5õÅ`?$?2/?v×m2#??U<Ç{(SO8ŞgZ?»²1ùÉb??Äüî?—û°ß]?Ì@nÙ÷®Gk(?súÀóO>?s»˜1•Ó8?
+Ş‚H?]ìåúU
+o7?GklTW7ĞyçÆ	ÃØ^?z?lFP?(j
+À¦?štªò_¾¶\çëÚÆu?@ˆJk?ÿ`™“äD?´Ÿ?‘Î6š] éù?ei?[?(Õºæ»jx6yŒİv0.û“©H
+š[5?iqO>Ùçì
+h“F¬ÁXmb??Ê‘†˜1-G°m‰i?Ú£ú™/<?\Ác~???œ®HJ?	$?J?Êk¯ç'<w
+êfÂT?&
+JoFI????¢¿	TÆæI×\??
+s???İz4?üh??³wV4?j?Åş?g¯Q‘Š?ƒ0M%
+fäå`d??0§U?¬û]c#?Z?NS$ùPø±÷?)3šˆøÊµxø·??6ùB`mz—â?¥i
+µÛ?Â¼®yq?”¦tàXu	³ë¦©??´¬uDF? ‘§ÆT¸áæW–b
+óZ8ÎEd§üt?KÒ¤??ƒÅä@ú¼?Ã–‰…^\½X??8¡Ã¼DÊİåJoŒL?y¥líĞï»l™SHœò÷ãú¨3?f5úQuÒ{~8?S)
+ŞĞ²ßõ“’¨oXM?Œş¡âù?8Í›P?2í¬•ÂBw?ôÚ±b?
+?®j2O??'ë{íUp ??ã¸$oS?ÆL›k
+??
+?v??Ãk±Ë»
+o.Êğnu£ÏæÚ?pÌts»Ç? ß.êÕ?0W?Í”?¿}??
+@!J{&ùÙÁ€Gœ‡V
+¸µÍú??‡Íı²?°?¦v?àpcZ??"ÕFE??8«Îl™Üåkf??§ÆÊ¢@ ˜Å3{e? °bÀ×rëœUÔ]u,I?W?r
+Ü¯
+záSVÂßUŸJ??›˜×ÔF?k.E?²Äıé?|ş‹&	Ë±t
+ÍªE	¥|?„¸]§ß?xvùQ&?•Ì³’p?ûÖ1%?+wäÛ? 6|ÈñÚh:îƒ¤Ò??L{	3u<GîúEùî1??Åt?v'??
+*ú€?fuc
+ÍN?wOÎ¾D?¸½ÇT§ï‹«?ÄÖ=İò?x?Ÿ›ïÚ1B?ëº?;r$”÷íEZ?‹ˆ¢äÛhywfŸÀ@ªH??r
+5Ÿ×X‚¥Íø	 ı–`¦I
+49"•İ?Úe?X?ÚW¬²ğlÎ–<…jéT
+?Z_ëì0‰??3Š~S,‡Ê‘ö[İy—u "Kº“–Ô?ÉöŒ§?g¢T?6ì—Ÿä~Nü’Dä¯	}İ@Ë??P©ş?‰“'n{?ãk?m3?'vE‰Æ?R(­r?.	?"Rœ…	?“ Ã­i¼M-s—‰/B(:?ÇoW?|ızjŠ|
+Œ”X±Å
+#$?`
+?îß±CŸ˜Ãìîo??m­ŸÌÀüC·È?È¨e?E
+NU
+,IW??ş¸>¯¯p’k??„¦R?3~Tëb??-cO¡XI?~‹·êí›’öõØú*bğ6?Æ¾
+zo=*¬f
+m½_á^ƒ?Hƒòu+¤Lõ?ØH¢Ud8u?¬~??ZùŸ?2o´¬H?(¿©QŞİ(S?g?±µÜ¾??ÿÀoh'??ü¾?°Ey
+l?³uØGñ¸©Ø1?l´?Su‡k+L=GqşG¶ç?0?«ÃU&(vğœ7±é?X?J?ôLSQI:?«›?t?§@ùo•`5Ë|?
+?„—?4Qì×<?
+¾ƒ¥M?8JÔë
+<?dRÒ£1.
+s†D€ 
+?Å~?ÓYÅ—?
+@%??d?$ÿÎËPîtTÑ£İD/~‚Ô §¡?ühà_È?LïP,™E?¯Äë€?¬ï—H?M¿‹
+fÅKÎ½Ş›²ËP???ÛŞohSP?[œ–?*Ôì#İ©.'o?—sªÁ?;·P?4ø¼ ?S?rÕròÊ!¯D<?C?gp
+¯Ñ»îÕw¤²e%=VÕC„D"¨ìND}pR?9ãs]MAú°Î¿êVX™µ?Ù©?Ç°Ÿ×o??ÌcN;QÃ^|şùv
+?Éu z?Y,Åh’Ì2 «™?? T:/Ùz9m?”–Şe?Øv>½ò??F?{ìŸü†O?
+®?±ÏZ?8?–Çe¬A?
+?¯ë??K9` ˆ>'¨©åÛ![7Ñá¿ÈŒf?ÆùEgÕ…=?™C Ã²öû]ÄÇø÷#!U8{(Êê\ŸƒÂ…1G??—µ‡n??sùu]?s¬¸NQäå$€bİ?”.¿ü??HÇÔ¥åHæÄœ¡t ™K?&?§ËÖ??ÿn“ö?ÉÓÃªàŠ?EªM%.?[ÀB?<?r J~?Ã¿#Ÿv^ G?ìÒ??G2¿\)¡¿]??èÜÁü??(rB@Ázqwx?Z? ?
+bÕ±lËZLŸYÉuºíÖşJ1Z?ØÏùÓ¼]?|k0@0§¡‡£\#¿Ê?†Ì§t?PIRClient: Received reply ciphertext:
+Where do you want to store the files?
+PIRReplyExtraction_internal: Waiting for first replies...
+»Ô²`İE??:5deU5™ê¿l©Uº?Ÿ¿ÚıiøY??»iã¦}C?Ò©?CD_K?
+?+]Nä›ÖPŞ“A
+ŒÕXá»·—V>üG?@??u<
+?)ğ‹¼ß?`K#5	?4ø…#,µ«???§~?ûå?¼ñ’Ma
+PIRReplyExtraction_internal: Starting reply extraction...
+?“’ê¨?ÛèD¢šx@¹Umu?U[kĞIK-¹?fq??¤cJıßî`ÓÌ3&Òe.!;®(~m;ÚÅ,™À­ğØÎ??`?ˆö?w/UxtÙÜ
+A?¾hÄm{æ¸
+³²@ÖoÉñH“ÇWTÑüìö?Êé;?À…F?r:+øpÚãñhp½Gã[ˆ­?ÔcÚ³4ÇS?_£H?
+Æ£Â±7\ê×UG›L
+­¡&_®m^3=Ït]?²èËnöƒ?G'??,²Ü??
+®¹›óıS0»¸^ ò?aUìã,b b? ıDq‡×|G?a"?|?	-Tûµè|¹Üšì??:Ioo??yübw??¢ãNié“è—‹ôëkAüd´ËNóœ]¼“?oD–ñáîıqÁ ???±ù?,?]>?K,áÇ–•½¡±L?€
+´Ç€??‘ê
+¼Ä??ŠEÕa?f?#<'‘£2ny?©ËO¼?ƒeg~22yH `?;
+š§EÉF?8_›½?ãæ?Cõ!??É‹7Ìqt%?l›Õ{?CàşŒvI<”FN>F`±µ†€µW_1¦Ş¹¤W?éC‘iÎÇj
+?ÅdÏ‰äwWØ™,
+X²°0??y??ÒD?1†”o|×»zêcR58ycÌ¾c!Á‰??²Ğp?,ÿagŒú7
+¥ïR´§&E
+PR>?·iÇ­??X‡q‰÷??ëGİº?tL9xåÆN-NëÇñt
+ÌìfSF?““Š™??aÁz??dùöŒZâàw?…?K½¢?ãåËq0?nLßœBüí¶d?
+Ğüj©˜?œªåqğ_??†S“ŞhÆR;?º}ÜÄp&n?WCodm??Ä¦´1şÅJlnhQ4
+3‹b½HÍ±Ìu†R¼F?®¨FàÒD8@È¹ë®ÜxêS_¨è~?P.Ÿƒ¨B:
+~=ó`?Ó_¿¦??!kK?){ÛI]á¼µ§?ŠdVC-©İJX$m?p???À¾ªTlíó?æ—ŞD?HYyf©	
+?5–MA_âİ7˜©xÓıOeÀn?Í{”s	?AŞJªk
+b+8«]hQ]”sbÚÄ?ULÆ®?ÊnsÈÄ?C•š²V+G	¤õ¬‡1M	x¿«Rh?n=ßş?34àÁ¡—Ø«…E/7_ÍA	–~9wğ^} § ğY?”Á+Õ±_?h?W?e6#.…oÒÒ?R\Àã“ŞàÚ)r¹Ée; ªé·¸´±X7?o¿¨½|Ok¿B"*¼£ëH?? au’`tÿ(œÁm?%,»jëHT?{%??hj`áón4HÒ¢r²»¯mÛg?¨ë”B‹ıhzi?*?C¦W—Ï?÷c-„bà¾
+0æù]x?.V¶aàl?W¾äJb%
+ÔÁk.?¯ÃK
+Êª?Mæ® ˆamI
+ñx?nW}q
+òªz¹™¹„ ?¬cŸ¯ù¡?ÎUëcMi?e å!ÏO?O?àú?k?Õ÷?!p´Ëïå?Dáç*;?¶çFâ«?p?ú½?ïõrÆà?M”á‘œ8
+ì¡AÅô?ã˜[ïÄ
+?Ñ¤…EÙ³ÒİY y?#ü×¤Šá'ãèğ­X\a?áÚ? ¨)ö¡?m
+Š¢H{^l)?ìw#¶ˆ
+?ÖÏÏo?
+Rc!Ò”??ÖâšC?ŠŞ?#yl—ñn
+&?İµtÔÏ‘—?&ü‚?
+ÒJ‚Î|Ã¥(}â¿???—Ö$Q9„õî¦µÕ;`tÎó?Ù¢b?´V³ô´Ø;p??
+?Â‹ØøÑ0İ¤cH
+?]G??iZ?nfSGj?`{?3È;ï“[ùR?+¤Æ?çPşáÙš?`«í±|ts5TVp~Òt1oÏAÂu’t»¦ÕsW;ğ‰)†ú29B+GØ–
+†d?)?ßŒ?éâ&Äş?
+]wN\??JıÒ‘İÉˆBk?ƒß‹VoæÉÍÒ\Ã­ûÊ²zN?ÔgŞı
+>—Äñ?z.wÇ ?¸œ?EÊÈšÛ‡Le?9­tK•ù???•â`‚şŒòI?r¶‡x?éTŒç?ŠÄD)’Üài?([O÷“Si?ı?2I??6êÔ[)
+?Ætq†¯å8??Uõ–™—?ÇÕ’T??UÛğì~?y®rP?áf2??£t
+t?sÑ•?ñIHkŸŒ,?`šËA
+YU.<]„¼#@Á‰_Ù¯š«á{79?y/ZƒÏ£ ½_ìíS?~ùj?çÜäÔ¢@4E	qB=NZ©_
+p	µF¸ä?6ÅféA3?7z?Ï»U*aòÇ??ÌO
+m[S2
+?š[?
+S&ŠOR~2‡_Û@0??ûİ’¡?G­úöL`1MàJÿğ[
+Åmt??4"E=3ØõÍe–E??ìl­å9??D\g¸kÛä?QòC N?@ï
+mf¿+ Ç¯??É£?Ôø?B?øR¬ßF??îß—çdÊH^óÊ¯Â ?d¦®f?~Åœµõì¡Ã"Á„¤_CAüÒ×Á¸wR™n¢×?’g?+V&,öIPw û†ÔÈVO??Ë“‚¨ÀUR¼~İ¬Åª‹¨¹Õ(Bf½ïhM¨òe¹R>:??¼?±–Ò\=?dB®É??»zP???¢ÆC
+ÄğÛußD?«z!¨o{?@Ê]?V¥OUA©íN
+?›m?š„‚Ÿ??­©O!?ğ“HXlÓÇAìüL ™ ?=”tfL
+_.iôĞño?lº¼#I@?¼í?û­l¼Ú?:?Ÿkàƒp?úÊ-%±†ù‹
+?¢Öäá@ğblm¬¹?µ¡k¾ûC'Ó³	ºq?èaÛï4qB‚rş•ìtQ?D•ú?^EıÊöŞ]	?Õ¯BB	›?‚w%İã×ïEÛìr9J–N?÷Ru ÂMH?6•ëÕÙ5
+	Ñ‘ta^?0‘ÁÀ!?ñ´z7õÛ?¶©-sÚÌ´—?¬w	¶å6£M4oYºm;=Ö´g?îá&AVË§å¥ÒšBdéH3??^²İ‡êH}?â¸?cf¯˜‡ÖÜÅ/´SGL½{*óÏ¨O"IŸÌ(¼}
+2Kèêç˜EÄ¹oX?ÏyVj??ºW/İS?8ËM&D<A?T^?A?gmôášÊ·º¡]"BN‚Ä?]w’Ï$(o?d)r,
+àÆQt ?C	?j[;,Qx?<6Ğ|?e
+{6P¬×?­‹wkÉ›rÄı??++çÈºJ?_6]ôúY?BDŞÙ?ù€8*S?76vTa? ³n/×w' ËÎ%?vô˜†¤{?
+tB0??®Ò¿¥+I<äX]±âK?NE??Q
+¡·@|#?8¼Ö???x\??<¬ñšï?o_(n„?&C²“?}?BÚÂ?xÊZo¦g?~^@‘NuOE?å z(;©R?É×q\Îí?	‹û•	İãO?t<Æ˜?Ó˜A€‚‘?AåO1|\
+
+&p?Q
+Z?D?-ÙX°¸ÚÆ?IóÀD×Î —>?¶³úÙÌ?úš??•Do[iE²…Føø?£ÖK?
+G5÷¹®?ïâÈ£?˜Ú0?iLóœ?}wòÚ•‰ J
+I¸òByˆ·ı½ê·™/˜àSÀxŸB>??Qr???ÿ‹êÏck:œ½??
+†²dŸ™
+®[ÂqÄ×\
+}°„A ƒ
+4x?ñ¸?Í¯bpóèJ?d?o8°@UñPFY«v?P4ÅÄ}»BúKş€??$ÚÍI?
+©Y[¿ú>LaÇÌçë
+R"#T2¢ÊQF€çgfyıÁQÉ¤dwN×@BYW
+µ•)ºÙ?|»SÉtıñ?òBmQS
+JDd“ºs{?¸­¨›?0ˆõåèl*úS?g"7Ê(?%-‘ÚGG*,ktR:	Yíjl×ùaãÄjp/?BÅ£yæÃ?
+YVU?ÜO?x!F?Ã·??¯Æ¾Û`Š„
+1?+[?ÃsTÑ”Fchîa| öØ=®CR?=ê_ç¨Úı™¨`
+ ËŒàxv0
+ø`H??¨é9(?w1Ê–^Ü¹ğØŸyK?hJªş›ÂE)$¥¡¼KoC??µº
+??N?OÄÂ•é?,Š¤‚Pöæ!D|·Ìr?9`Õ_+? l€h`çã£jiëĞ§¤|MÌà_vN.!­ôÚLyF?L’^ŒcyEúÕ^
+5=ßHO}??cFvøY?.ûEiW?fnúÍw?
+\??QJïJÂZQñ¯?—y¢tç†b:õˆ<"V>öŸ$U$?‹³b?vO??'HU?
+?´lU^?95Z?C6ŠÅJ˜DàQ³w
+?.?pK.
+?ÚÖ?èd=³¹  )C†x-?ãı>TF±¸?	÷ê“{QhÙƒÍjIšé‡Í
+Nq˜©²šN5X¡Ïº·M)?éuYİÆ½ì?È|v;:?S?¨¶?
+q @À£Sk?ÊÇëÂ
+c????æDu? /?\ÌâE?A?âƒ0òy???Ui?,?.R˜»õi(*f
+?/½óZ^©£”c®¿?ÖM??ğl??1Û¼²ùl,‚$I?
+??-?
+·nƒVÅû??6}7??1N"H?`Âˆ????'¹â?*‡|ÚŠ??
+¦ºB Ìq2°]?J`n?µeVÕ?¡è?s
+Ôö¡î×t?t5??…Óp@¥LK
+"¯¾otE?
+??K??v?13â?{?kvh?>e?¾€+]Wföä?
+nÓ»~®õ§‹àG?:FE¸X?¿ÕZwÕÄ
+~Ò÷??ÖB??ÍÙôó?ÅoH¢qDa"/^W¶†?ZÀ´ãl?ÙmÒëd)?Fêó×ˆ?‘Ë(??äÓ­m‘åò]w?~??½£?a¢§_–ğ;?úÈ<?#kµÊøî?Í^’m@BÕ¤k•ZíÎ g;ŞmğM??ÙañæVñ¥E?õ_2¶B?x’â§?‰¼ŞX85?øbV&İb@i)?—ˆ/ÉkÈ’,?3Ô²»0?ıKäûR\]	N]â­#"?m$ò4:ŞÍ?T
+`ryä÷|i CÈ~¨yb?=s¶’
+	?
+#24?y c?•‡¢éíb?´W@¹`w~ß“q?Qş±VêĞ?ØÈ27ÆÃ?ëV???à_Ëi›M?Ëâì¼?ºß?? ?Õ?!§BBz?9y"d-¾áÙbì¢?g†fâI}{?Ùá?
+\?,h?–‡¡]??}nÿ?Nält???›™„@Q?ÿly
+?s ÿ¾…5??v?1|‰Ç??«ˆlÉŠù?È¶%w]ÊS??¬—6X?RZ?ŞÔ?.?v?"x?§S|&|?7&
+%?$B&?
+??.?ÂíËk
+«S?âÆ J
+'d?ªE?[?0ø^[??dt?h¡Í ïb?(B??M.<?Pï²%?h	?R”Z?
+«‡è®?
+QX?·LşH~MÖG|ÊãL+ÀmñŒ·è	5èófz???÷š?
+‘„ ”S? CW
+??MLy?
+.ªŒ8.?ı‡ˆ¿?fo.2Š dÑ÷˜Æ?êí¹°¬œG†€ ×±ù²
+‚ò WLùÉuÙÅ=0?
+??¤µ~
+~€.l??¾™?L=?!?H¢ÑzS??ÚòşS??h??.*öÇ°¬?†ê¹°™…?‰µúîY¡z??Ş•Äû?s?ùƒ`ˆ­[?ÃØ¦q(?B©ø€Dx×CF???Â?Ù@¦¨?Í¡¦©?]7?‡Ô:¨ÇÂQ
+?!&÷jE?.ÓX^4§m†hy??F	}?æ±A¢µOLz
+àKõÚ;”J|¨Ç(˜åíÈf"“›fÎS?‡Cw<‰Ó?c;¹…–g?Ù÷ÄKÜ»?f?3×•øÜFV??k&ğ›?sÖ©zŞd«`Lá‘ÉÀ+?íâ†\?1(ZÒy~Õ
+x3*LC1?ŒgcZ˜À
+n·Ç¬¨±¿??³B???z´j7'Ìqh¼Ö
+^”èªS?­İxı?ÇÔSöç?×áÂ‘Ìi?Áú‰JA?^2I???Ñµ?#ÆM?
+?†¿+?ú†8ØQ Y?éÍÙ·?T?ş§¾B
+E?yr'±¹½Èåù
+n?:€­‚ ²Ø¯?t@¦­R!3ûí›—/-­O6AI?¥áM?Z
+$??nm¿b>
+è 
+D÷nP?úvS?.?Û|&Fb
+®¡¡ùg?)p??x"-|½CZ®Ö…`OŸ£?PQÌv­E)Öe€6ó™??Úrd¡‚;?RĞ—rÍÌ
+?ŸÀÔé
+I>õÀ?ÊÙCiŒ÷ ÍDù…DÜ†é·?¾{$Dªöæg=ÃíyïU‹öÓ‚¥	*±ı;(?İzM¡œ'?Tx+(	S¹TÓVƒp~ÓêˆÀE
+ÊJ?|\&]İ“ò°I,?§Ê8/vşOl–ê%â¢???§ĞÂ’E?´ÖJ??é@\d?ÿNV??¹»¾§?>¨_?
+;­ázÉúì` ˜ ŞDùşº^tØqÍ¾WB
+ŒZ?Y??ÙP~4?‹ÓğÍUÎm¤\üã?T&†ñ{á¾EM¦|—¬çU?c51xwşfJO?™áL?,a?[1;30mdownloadWorker : [m[33mdone.[m
+PIRReplyExtraction_internal: Reply extraction finished, 45 reply elements decrypted in 1.1488 seconds
+Where do you want to store the files?
+[1GPIRReplyWriter: Remaning Bytes to write : 1048576                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 1025024                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 1001472                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 977920                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 954368                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 930816                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 907264                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 883712                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 860160                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 836608                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 813056                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 789504                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 765952                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 742400                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 718848                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 695296                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 671744                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 648192                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 624640                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 601088                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 577536                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 553984                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 530432                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 506880                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 483328                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 459776                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 436224                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 412672                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 389120                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 365568                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 342016                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 318464                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 294912                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 271360                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 247808                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 224256                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 200704                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 177152                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 153600                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 130048                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 106496                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 82944                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 59392                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 35840                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 12288                                  [5G
+[1GPIRReplyWriter: Remaning Bytes to write : 0                                  [5G
+
+	## SUCESS ! ##
+	   Â°Â°Â°Â°Â°Â°
+PIRReplyWriter: Emptying queue ...
+PIRReplyWriter: Unable to truncate retrieved file
+PIRReplyWriter: FINISHED (This should end the client)
+
+CLI: Query RTT was 15.5771 seconds
+CLI: Exiting...
